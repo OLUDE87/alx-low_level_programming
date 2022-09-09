@@ -5,7 +5,7 @@
  * main - Entry point
  *
  * Description: prints and that piece of art is useful
- * return: always 1 (success)
+ * return: always 1
  */
 
 int main(void)

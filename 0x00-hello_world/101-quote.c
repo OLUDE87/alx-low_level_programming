@@ -3,7 +3,6 @@
 
 /**
  * main - Entry point
- *
  * Description: using the main function
  * this program prints and the that piece of art is useful
  * return: always 1

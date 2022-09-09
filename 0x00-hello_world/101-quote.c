@@ -5,9 +5,8 @@
  * main - Entry point
  * Description: using the main function
  * this program prints and the that piece of art is useful
- * return: 1
+ * Return: 1
  */
-
 int main(void)
 
 {

@@ -21,13 +21,13 @@ int main(void)
 
 	if (n > 0)
 	{
-		printf("if the number is greater than 0: %\n", n is positive);
+		printf("if the number is greater than %d : is positive\n", n);
 	} else if (n == 0)
 	{
-		printf("if the number is 0: %\n", n is zero);
+		printf("if the number is %d : is zero\n", n);
 	} else if (n < 0)
 	{
-		printf("if the number is less than 0: %\n", n is negative);
+		printf("if the number is less than %d : is negative\n", n);
 	}
 	return (0);
 }

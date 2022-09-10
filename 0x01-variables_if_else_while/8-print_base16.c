@@ -4,7 +4,7 @@
  * main - print Hexadecimal
  *
  * Description: using the main function
- * this program prints programming print hexadecimal
+ * this program prints programming print numbers in hexadecimal
  * Return: 0
  */
 
@@ -19,6 +19,7 @@ int main(void)
 	putchar(a);
 	a++;
 	}
+	a = '1';
 	for (i = 0 ; i < 6 ; i++)
 	{
 	putchar('0' + a);

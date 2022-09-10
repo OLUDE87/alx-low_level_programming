@@ -4,7 +4,7 @@
  * main - print alphBET
  *
  * Description: using the main function
- * this program prints programming the print alphabet in lowercase and uppercase
+ * this program prints programming the print alphabet
  * Return: 0
  */
 

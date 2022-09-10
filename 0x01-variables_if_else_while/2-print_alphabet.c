@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main print alphabet
+ * main - print alphabet
  *
  * Description: using the main function
  * this program prints programming the print alphabet

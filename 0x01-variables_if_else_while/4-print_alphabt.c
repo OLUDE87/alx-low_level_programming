@@ -3,8 +3,8 @@
 /**
  * main - print alphabt
  *
- * Description: using main function
- * the program prints programming the print alphabt
+ * Description: using the main function
+ * this program prints programming the print alphabt
  * Return: 0
  */
 

@@ -5,7 +5,7 @@
  *
  * Description: using the main function
  * the program prints programming print numbers
- * Return 0
+ * Return: 0
  */
 
 int main(void)

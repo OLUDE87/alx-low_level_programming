@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - print alphabet
+ * main - print alphabt
  *
  * Description: using main function
- * the program prints programming the print alphabet
+ * the program prints programming the print alphabt
  * Return: 0
  */
 

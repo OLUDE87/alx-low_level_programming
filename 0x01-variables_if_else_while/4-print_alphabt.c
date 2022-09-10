@@ -3,7 +3,7 @@
 /**
  * main - print alphabet
  *
- * Description: using the main function
+ * Description: using main function
  * the program prints programming the print alphabet
  * Return: 0
  */

@@ -7,7 +7,6 @@
  * this program print programming print combination of two digits
  * Return: 0
  */
-
 int main(void)
 {
 

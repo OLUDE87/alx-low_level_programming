@@ -10,7 +10,7 @@
 
 int main(void)
 {
-	
+
 	char b;
 
 	for (b = 'a' ; b <= 'z' ; b++)
@@ -19,4 +19,5 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
+
 }

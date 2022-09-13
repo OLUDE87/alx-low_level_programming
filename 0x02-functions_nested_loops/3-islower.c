@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * islower ->  check for lowercase alphabets
+ * _islower ->  check for lowercase alphabets
  * Return: 1 and 0 depending on the condition
  */
 

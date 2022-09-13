@@ -3,6 +3,7 @@
 /**
  * print_sign -> prints the sign of a number
  * @n: a character of argument
+ * Return: 1, 0, -1
  *
  */
 int print_sign(int n)
@@ -19,7 +20,7 @@ int print_sign(int n)
 	}
 	else 
 	{
-		_putchar('_');
-		return(-1);
+		_putchar('-');
+		return (-1);
 	}
 }

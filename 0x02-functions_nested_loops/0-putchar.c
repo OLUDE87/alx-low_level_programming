@@ -4,10 +4,13 @@
 
 /**
  * main - print _putchar follow by a new line.
+ *
+ * Description: using the main function
+ *
  *  _putchar - writes the character c to stdout
  *
  * @c: The character to print
- * Description: using the main function
+ * 
  * 
  * 
  *
@@ -28,7 +31,7 @@ int _putchar(char c)
 	_putchar("h");
 	_putchar("a");
 	_putchar("r");
-	
+	_putchar('\n');	
 	return (0);
 
 }

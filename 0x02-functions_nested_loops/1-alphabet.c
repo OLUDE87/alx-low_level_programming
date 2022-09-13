@@ -4,7 +4,7 @@
  * main - print_alphabet
  *
  * Description: using the main function
- * this program print programing print the alphabet in lowercase
+ * this program print programing print_alphabet
  * Return: 0
  *
  */

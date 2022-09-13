@@ -2,11 +2,6 @@
 
 /**
  * print_alphabet
- *
- * Description: using the main function
- * this program print programing print_alphabet
- * Return: 0
- *
  */
 
 void print_alphabet(void)

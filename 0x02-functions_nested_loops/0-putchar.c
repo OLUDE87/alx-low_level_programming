@@ -1,27 +1,15 @@
 #include <unistd.h>
-#include "main.h"
-
-
+#include <main.h>
 
 /**
- * main - print _putchar follow by a new line.
+ * Main - print putchar follow by a new line
  *
  * Description: using the main function
+ * this program print programming print _putchar follow by new line
  *
- *  _putchar - writes the character c to stdout
- *
- * @c: The character to print
- * 
- * 
- * 
- *
- * Return: On success 1.
- *
- *  On error, -1 is returned, and errno is set appropriately.
- *
+ * Return: 0
  */
-
-int _putchar(char c)
+int _putchar(char c);
 {
 
 	_putchar("_");

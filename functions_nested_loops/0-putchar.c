@@ -1,8 +1,8 @@
 #include "main.h"
 
-/**
- * main - prints putchar follow by new  line
- * Description: using the function
+/** main - print _putchar follow by new line
+ *
+ * Description: using the main function
  * Return: 0
  */
 int main(void)

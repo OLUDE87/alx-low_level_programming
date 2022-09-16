@@ -2,8 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_mumbers - print numbers (0-9)
- * Return: 0-9
+ * print_mumbers - print numbers from  0 to 9
  */
 
 void print_numbers(void)

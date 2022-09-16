@@ -2,10 +2,11 @@
 #include <stdio.h>
 
 /**
- * _isdigit - check digits from 0 through 9
- * @C: argument digits to check
- * Return: 1 if c is a digits, 0 otherwise.
+ * _isdigit - check digits (0-9)
+ * @c: argument digits to check
+ * Return: 1 if c is a digit, 0 otherwise.
  */
+
 int _isdigit(int c)
 {
 	if (c >= '0' && c <= '9')

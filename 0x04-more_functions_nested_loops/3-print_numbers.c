@@ -3,6 +3,7 @@
 
 /**
  * print_mumbers - print numbers (0-9)
+ * Return: 0-9
  */
 void print_numbers(void)
 {

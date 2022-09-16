@@ -2,6 +2,7 @@
 
 /**
  * more_numbers - functions to print more numbers
+ * Return: 0-14 x10 follow by new line
  */
 void more_numbers(void)
 {

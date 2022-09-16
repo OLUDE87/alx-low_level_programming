@@ -4,12 +4,12 @@
 /**
  * _isupper - print upper case character
  * @c: argument parameter
- * Return: 0 and 1 depending on the condition
+ * Return: return 1 is character is uppercase, 0 otherwise
  */
 
 int _isupper(int c)
 {
-	if (( c >= 'A') && (c <= 'Z'))
+	if ( c >= 'A' && c <= 'Z')
 	
 		return (1);
 	

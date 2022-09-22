@@ -1,5 +1,11 @@
 #include <stdio.hi>
 
+/**
+ * main - using the main function
+ *
+ * Return: return 0
+ */
+
 int main(void)
 {
 	int n;

@@ -1,8 +1,8 @@
-#include "mian.h"
-#include <string.h>
-#include <stdio.h>
+#include "main.h"
+
 /**
- * *_strcat - this is a function strcat
+ * strcat - Concatenates the string pointed to by @src, including the terminating
+ *       null byte, to the end of the string pointed to by @dest.
  * @dest: first param
  * @src: second param
  * Return: a string

@@ -1,5 +1,5 @@
 #include "mian.h"
-
+#include <string.h>
 /**
  * *_strcat - this is a function strcat
  * @dest: first param
@@ -9,16 +9,13 @@
 
 char *_strcat(char *dest, char *src)
 {
-	int len = 0, i;
+	int len = 0, i = 0;
 
-	while (dest[len])
+	while (dest[i++])
 		len++;
 
-	for (i = 0; src[i] != '\0'; i++)
-	{
-		dest[len] = src[i];
-		len += 1;
-	}
-	dest[len] = '\0';
+	for (i = 0; src[i]; i++)
+		dest[len++] = src[i];
+
 	return (dest);
 }

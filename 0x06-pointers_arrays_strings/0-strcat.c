@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * strcat - Concatenates the string pointed to by @src, including the terminating
- *       null byte, to the end of the string pointed to by @dest.
+ * _strcat - Concatenates the string pointed to by @src, including the terminating
+ *  null byte, to the end of the string
  * @dest: first param
  * @src: second param
+ *
  * Return: a string
  */
 
@@ -14,9 +15,7 @@ char *_strcat(char *dest, char *src)
 
 	while (dest[i++])
 		len++;
-
 	for (i = 0; src[i]; i++)
 		dest[len++] = src[i];
-
 	return (dest);
 }

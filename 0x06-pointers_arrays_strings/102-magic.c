@@ -1,10 +1,4 @@
-#include <stdio.hi>
-
-/**
- * main - using the main function
- *
- * Return: return 0
- */
+#include <stdio.h>
 
 int main(void)
 {

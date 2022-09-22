@@ -2,7 +2,7 @@
 
 /**
  * _strcat - Concatenates the string pointed to by @src, including the terminating
- *  null byte, to the end of the string
+ *	 null byte, to the end of the string pointed to by @dest.
  * @dest: first param
  * @src: second param
  *
@@ -15,7 +15,9 @@ char *_strcat(char *dest, char *src)
 
 	while (dest[i++])
 		len++;
+
 	for (i = 0; src[i]; i++)
 		dest[len++] = src[i];
+
 	return (dest);
 }
